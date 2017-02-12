@@ -30,9 +30,9 @@ That's about it - everything else can be figured out from the code and the links
 Resources
 ---------
 
-- `Datasheet <https://cdn-shop.adafruit.com/datasheets/HMC5883L_3-Axis_Digital_Compass_IC.pdf>`
-- `Sparkfun tutorial <https://www.sparkfun.com/tutorials/301>`
-- `HMC5883L driver for the PyBoard <https://github.com/CRImier/hmc5883l>`
+- `Datasheet <https://cdn-shop.adafruit.com/datasheets/HMC5883L_3-Axis_Digital_Compass_IC.pdf>`_
+- `Sparkfun tutorial <https://www.sparkfun.com/tutorials/301>`_
+- `HMC5883L driver for the PyBoard <https://github.com/CRImier/hmc5883l>`_
 
 
 .. _adafruit-ampy: https://github.com/adafruit/ampy/tree/master/ampy
