@@ -36,7 +36,7 @@ Resources
 
 
 .. _adafruit-ampy: https://github.com/adafruit/ampy/tree/master/ampy
-.. _HMC5883L_:     https://cdn-shop.adafruit.com/datasheets/HMC5883L_3-Axis_Digital_Compass_IC.pdf
+.. _HMC5883L:     https://cdn-shop.adafruit.com/datasheets/HMC5883L_3-Axis_Digital_Compass_IC.pdf
 .. _hmc5883l.py:   https://github.com/gvalkov/micropython-esp8266-hmc5883l/blob/master/hmc5883l.py
 
 
